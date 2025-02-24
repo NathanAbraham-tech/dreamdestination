@@ -1,0 +1,20 @@
+html{
+
+    height: 100%
+    width: 100% 
+}
+
+body {
+  h1{
+    text-align: center
+  } 
+  h2{
+    text-align: center;
+  } 
+  p{
+    text-align: center
+  }
+  background-color: burlywood;
+  color:aquamarine;
+  font-family: Cambria;
+}
